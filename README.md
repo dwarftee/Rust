@@ -2,7 +2,7 @@
 this is a rust tutorial
 
 
-##variables
+variables
 ```rust
 #variables in rust are really cool
 fn main() {

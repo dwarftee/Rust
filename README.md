@@ -14,3 +14,20 @@ fn main() {
   #adding mut means we can now edit the variable
   y = 89; #this would work
 }
+```
+
+printing in rust
+
+without printing you wouldn't be able to print the variables!
+
+```
+fn main() {
+    println!("hello world!");
+    #println! is the function name and it prints to the terminal
+    #output: hello
+    let x = 9;
+    println!("x = {}",x)
+    #adding "{}",x tells the machine to print x
+}
+```
+

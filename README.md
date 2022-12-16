@@ -20,7 +20,7 @@ printing in rust
 
 without printing you wouldn't be able to print the variables!
 
-```
+```rust
 fn main() {
     println!("hello world!");
     #println! is the function name and it prints to the terminal

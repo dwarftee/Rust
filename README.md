@@ -45,4 +45,4 @@ fn main() -> io::Result<()> {
     Ok(())
 }
 ```
-
+step 4:screw rust c++ is better

@@ -12,7 +12,7 @@ fn main() {
   
   let mut y = 5;
   //adding mut means we can now edit the variable
-  y = 89; #this would work
+  y = 89; //this would work
 }
 ```
 
